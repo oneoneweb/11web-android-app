@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = '11web'
+rootProject.name = "11web"
 include ':app'
